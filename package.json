@@ -11,7 +11,7 @@
     "lint": "eslint .",
     "preview": "vite preview"
   },
-  "homepage": "https://nimmiev.github.io/list-products",
+  "homepage": "https://github.com/nimmiev/list-products",
   "dependencies": {
     "bootstrap": "^5.3.3",
     "react": "^18.3.1",
