@@ -1,17 +1,17 @@
 {
+  "homepage": "https://nimmiev.github.io/list-products",
   "name": "reactapp1",
   "private": true,
   "version": "0.0.0",
   "type": "module",
   "scripts": {
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d build",
+    "deploy": "gh-pages -d dist",
     "dev": "vite",
     "build": "vite build",
     "lint": "eslint .",
     "preview": "vite preview"
   },
-  "homepage": "https://github.com/nimmiev/list-products",
   "dependencies": {
     "bootstrap": "^5.3.3",
     "react": "^18.3.1",
